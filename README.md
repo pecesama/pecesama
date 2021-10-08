@@ -14,7 +14,7 @@ HCI researcher at <a target="_blank" href="https://github.com/enterprises/univer
   <img src="https://github-readme-stats.vercel.app/api?username=pecesama&show_icons=true&count_private=true&theme=react" alt="Pedro Santana Github Stats"></img>
 </p>
 
-Author of **DIY Microcontroller Projects for Hobbyists**: The ultimate project-based guide to building real-world embedded applications in C programming, published by Packt. This is the code repository for [DIY Microcontroller Projects for Hobbyists](https://www.packtpub.com/product/DIY-Microcontroller-Projects-for-Hobbyists/9781800564138).
+Author of [DIY Microcontroller Projects for Hobbyists](https://www.amazon.com/dp/1800564139): The ultimate project-based guide to building real-world embedded applications in C programming, published by Packt. Find the code repository here: [GitHub: DIY Microcontroller Projects for Hobbyists](https://github.com/PacktPublishing/DIY-Microcontroller-Projects-for-Hobbyists).
 
 <a href="https://www.packtpub.com/iot-hardware/creative-diy-microcontroller-projects-with-c?utm_source=github&utm_medium=repository&utm_campaign=9781800564138"><img src="https://static.packt-cdn.com/products/9781800564138/cover/smaller" alt="Creative DIY Microcontroller Projects with C" height="256px" align="right"></a>
 
